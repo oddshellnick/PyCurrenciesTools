@@ -1,0 +1,1 @@
+PyCurrenciesTools is a Python library for easy currency conversion and information retrieval, providing real-time exchange rates and a comprehensive list of currency symbols and tags.
